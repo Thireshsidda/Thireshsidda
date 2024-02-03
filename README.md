@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **developing a chatbot application using Azure OpenAI and Cognitive services.**
 
-- 🌱 I’m currently learning **Developing LLMs and Gen AI applications with PyTorch deep learning framework.**
+- 🌱 I’m currently learning **Developing LLMs and Gen AI applications with PyTorch Deep Learning framework.**
 
 - 👯 I’m looking to collaborate on **developing Gen AI applications for clients using opensource LLMs like LLaMA, MistralAI and other free open source services for vector store and searching purposes such as FAISS, Chroma vector store databases.**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **thireshsidda99@gmail.com**
 
-- ⚡ Fun fact **I am practically addicted to Gen AI.**
+- ⚡ Fun fact **:- I am practically addicted to Gen AI.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
