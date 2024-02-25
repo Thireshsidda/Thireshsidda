@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **developing Gen AI applications for clients using opensource LLMs like LLaMA, MistralAI and other free open source services for vector store and searching purposes such as FAISS, Chroma vector store databases.**
 
-- 📝 I regularly write articles on [LinkedIN and you can get them on Medium also.](https://www.linkedin.com/in/thiresh-sidda)
+- 📝 I regularly write and post articles on [LinkedIN](https://www.linkedin.com/in/thiresh-sidda)
 
 - 💬 Ask me about **Vision and Gen AI.**
 
