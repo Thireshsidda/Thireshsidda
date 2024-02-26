@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)]
-<h1 align="center">Hi 👋, I'm Thiresh Sidda</h1>
-<h3 align="center">A passionate Data Scientist especially in GEN AI with LLMs developing field from India</h3>
+<h1 align="center">Hey there! 👋, I'm Thiresh Sidda</h1>
+<h3 align="center">A fervent Data Scientist specializing in GEN AI and LLMs development, hailing from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thireshsidda&label=Profile%20views&color=0e75b6&style=flat" alt="thireshsidda" /> </p>
@@ -13,11 +13,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **developing a chatbot application using Azure OpenAI and Cognitive services.**
+- Currently, I'm immersed in **crafting a cutting-edge chatbot application leveraging the power of Azure OpenAI and Cognitive Services.**
 
-- 🌱 I’m currently learning **Developing LLMs and Gen AI applications with PyTorch Deep Learning framework.**
+- 🌱 I'm deeply engrossed in **mastering the development of Large Language Models (LLMs) and Generation AI applications using the PyTorch Deep Learning framework.**
 
-- 👯 I’m looking to collaborate on **developing Gen AI applications for clients using opensource LLMs like LLaMA, MistralAI and other free open source services for vector store and searching purposes such as FAISS, Chroma vector store databases.**
+- 👯 I'm actively seeking ***collaboration opportunities to pioneer Gen AI applications for clients. My focus lies in utilizing open-source LLMs such as LLaMA and MistralAI. Additionally, I'm passionate about integrating free open-source services like FAISS and Chroma vector store databases for robust and scalable solutions.***
 
 - 📝 I regularly write and post articles on [LinkedIN](https://www.linkedin.com/in/thiresh-sidda)
 
