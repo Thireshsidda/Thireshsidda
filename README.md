@@ -31,8 +31,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/thiresh-sidda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thiresh-sidda" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/thiresh-sidda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
+
 
 
 
@@ -50,6 +51,7 @@
     </a>
   </p>
 </ul>
+
 
 
 
@@ -84,8 +86,13 @@
       <img src="https://tse1.mm.bing.net/th?id=OIP.q5y_L6AJmodoXnmMkbmWlQHaHa&pid=Api&P=0&h=180" width="50" height="50"/>
       Git
     </a>&nbsp;&nbsp;
+    <!-- Add more MLOps tools here as required -->
+    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+      <img src="https://tse3.explicit.bing.net/th?id=OIP.wOMtZQ4cb_gxIZ1HkiKOfwHaDw&pid=Api&P=0&h=180" width="50" height="50"/>
+      Kubernetes
   </p>
 </ul>
+
 
 <!-- WebFramework Tools -->
 <h3>WebFramework Tools</h3>
@@ -147,18 +154,22 @@
   </p>
 </ul>
 
-<!-- Other Tools -->
+<!-- Other Frameworks -->
 <h3>Other Tools</h3>
 <ul>
   <p align="left">
     <!-- Add other tools such as Pandas, Numpy, etc. -->
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="50" height="50"/>
       Pandas
     </a>&nbsp;&nbsp;
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-      <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy" width="50" height="50"/>
+      <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" width="50" height="50"/>
       NumPy
+    </a>&nbsp;&nbsp;
+    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+      <img src="https://tse4.mm.bing.net/th?id=OIP.ffivEBQvq_3fb6-3BgJl0AHaGK&pid=Api&P=0&h=180" width="50" height="50"/>
+      Matplotlib
     </a>
     <!-- Add more tools here as required -->
   </p>
