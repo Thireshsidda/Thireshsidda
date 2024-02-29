@@ -174,12 +174,15 @@
       MySQL
     </a>&nbsp;&nbsp;
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img src="https://tse2.mm.bing.net/th?id=OIP.-ShJojJE0iBhiDT2u6Uh0gHaD_&pid=Api&P=0&h=180" width="50" height="50"/>
       MongoDB
     </a>&nbsp;&nbsp;
     <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+      <img src="https://tse2.mm.bing.net/th?id=OIP.scONm-AOk8kFEM_O3tYiHQAAAA&pid=Api&P=0&h=180" width="50" height="50"/>
       Apache Kafka
     </a>&nbsp;&nbsp;
     <a href="https://azure.microsoft.com/en-us/services/storage/" target="_blank" rel="noreferrer">
+      <img src="https://tse4.mm.bing.net/th?id=OIP._p2aUasH5gYH2bDDF8AHjAHaEO&pid=Api&P=0&h=180" width="50" height="50"/>
       Azure Storage Services
     </a>&nbsp;&nbsp;
   </p>
@@ -195,4 +198,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thireshsidda&show_icons=true&locale=en&layout=compact" alt="thireshsidda" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thireshsidda&show_icons=true&locale=en" alt="thireshsidda" /></p>
-
