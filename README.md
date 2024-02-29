@@ -129,15 +129,19 @@
     </a>&nbsp;&nbsp;
     <!-- Add more ML Frameworks here as required -->
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+      <img src="https://tse1.mm.bing.net/th?id=OIP.hL1XFFTWL4Esa7o7BL6YVwHaB1&pid=Api&P=0&h=180" width="50" height="50"/>
       PyTorch
     </a>&nbsp;&nbsp;
     <a href="https://github.com/facebookresearch/detectron2" target="_blank" rel="noreferrer">
+      <img src="https://production-media.paperswithcode.com/libraries/dete.png" width="50" height="50"/>
       Detectron2 (Vision)
     </a>&nbsp;&nbsp;
     <a href="https://huggingface.co/transformers/" target="_blank" rel="noreferrer">
+      <img src="https://tse1.mm.bing.net/th?id=OIP._g7NEmUN8eCs6n1PsT5KcwHaD4&pid=Api&P=0&h=180" width="50" height="50"/>
       Langchain
     </a>&nbsp;&nbsp;
     <a href="https://github.com/google-research/llama" target="_blank" rel="noreferrer">
+      <img src="https://d1tlzifd8jdoy4.cloudfront.net/wp-content/uploads/2023/04/eyecatch-llamaindex-1.png" width="50" height="50"/>
       LlamaIndex
     </a>&nbsp;&nbsp;
   </p>
