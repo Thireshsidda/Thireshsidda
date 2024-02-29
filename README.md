@@ -74,6 +74,19 @@
         </a>
       </p>
     </li>
+
+    <li> <h3>MLOps Tools</h3>
+      <p>
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+          <img class="tool-icon" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/docker/docker-official.svg" alt="docker" width="50" height="50" />
+          Docker
+        </a>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+          <img class="tool-icon" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/git-scm/git-scm-ar21.svg" alt="git" width="50" height="50" />
+          Git
+        </a>
+      </p>
+    </li>
     </ul>
 </body>
 </html>
