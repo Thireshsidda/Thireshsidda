@@ -56,55 +56,26 @@
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Tools List</title>
-  <style>
-    /* Optional styling for visual appeal and responsiveness */
-    .tools-list {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-around;
-      padding: 10px;
-    }
-    .tool-item {
-      margin: 10px;
-      text-align: center;
-    }
-    .tool-icon {
-      width: 50px;
-      height: 50px;
-      border-radius: 5px;
-    }
-    .tool-title {
-      font-size: 18px;
-      margin-bottom: 5px;
-    }
-  </style>
+
 </head>
 <body>
   <h2>Tools</h2>
 
-  <ul class="tools-list">
-    <li class="tool-item">
-      <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-        <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" />
-      </a>
-      <span class="tool-title">AWS</span>
+  <ul style="list-style: none; padding: 0;">
+    <li> <h3>Cloud Platforms</h3>
+      <p>
+        <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+          <img class="tool-icon" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50" />
+        </a>
+        <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+          <img class="tool-icon" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="50" height="50" />
+        </a>
+      </p>
     </li>
-    <li class="tool-item">
-      <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-        <img class="tool-icon" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50" />
-      </a>
-      <span class="tool-title">Azure</span>
-    </li>
-  </ul>
-
-  </body>
+    </ul>
+</body>
 </html>
+
 
 
 
