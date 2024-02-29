@@ -109,7 +109,7 @@
       Streamlit
     </a>&nbsp;&nbsp;
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/index.html" width="50" height="50"/>
+      <img src="https://tse2.mm.bing.net/th?id=OIP.EjzfQJsOFQ5iJkMsdcsRGwHaDt&pid=Api&P=0&h=180" width="50" height="50"/>
       Postman
     </a>&nbsp;&nbsp;
   </p>
@@ -120,11 +120,11 @@
 <ul>
   <p align="left">
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50"/>
       scikit-learn
     </a>&nbsp;&nbsp;
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" height="50"/>
       TensorFlow
     </a>&nbsp;&nbsp;
     <!-- Add more ML Frameworks here as required -->
@@ -166,7 +166,7 @@
   <p align="left">
     <!-- Add database tools such as MySQL, MongoDB, etc. -->
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
       MySQL
     </a>&nbsp;&nbsp;
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
