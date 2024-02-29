@@ -1,7 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 <h1 align="center">Hey there! 👋, I'm Thiresh Sidda</h1>
 <h3 align="center">A fervent Data Scientist specializing in GEN AI and LLMs development, hailing from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thireshsidda&label=Profile%20views&color=0e75b6&style=flat" alt="thireshsidda" /> </p>
 
