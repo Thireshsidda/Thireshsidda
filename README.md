@@ -76,12 +76,12 @@
 <ul>
   <p align="left">
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>
       Docker
     </a>&nbsp;&nbsp;
     <!-- Add more MLOps tools here as required -->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/git-scm/git-scm-ar21.svg" alt="git" width="50" height="50"/>
+      <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/git-scm/git-scm-ar21.svg" width="50" height="50"/>
       Git
     </a>&nbsp;&nbsp;
   </p>
@@ -105,11 +105,11 @@
       FastAPI
     </a>&nbsp;&nbsp;
     <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-      <img src="https://upload.vectorlogo.zone/logos/streamlitio/images/1548df31-a8e4-409b-a034-f2ddaa80670a.html" alt="streamlit" width="50" height="50"/>
+      <img src="https://upload.vectorlogo.zone/logos/streamlitio/images/1548df31-a8e4-409b-a034-f2ddaa80670a.html" width="50" height="50"/>
       Streamlit
     </a>&nbsp;&nbsp;
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getpostman/getpostman-ar21.svg" alt="postman" width="50" height="50"/>
+      <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getpostman/getpostman-icon.svg" width="50" height="50"/>
       Postman
     </a>&nbsp;&nbsp;
   </p>
