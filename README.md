@@ -109,7 +109,7 @@
       Streamlit
     </a>&nbsp;&nbsp;
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getpostman/getpostman-icon.svg" width="50" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/index.html" width="50" height="50"/>
       Postman
     </a>&nbsp;&nbsp;
   </p>
