@@ -81,7 +81,7 @@
     </a>&nbsp;&nbsp;
     <!-- Add more MLOps tools here as required -->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/git-scm/git-scm-ar21.svg" width="50" height="50"/>
+      <img src="https://tse1.mm.bing.net/th?id=OIP.q5y_L6AJmodoXnmMkbmWlQHaHa&pid=Api&P=0&h=180" width="50" height="50"/>
       Git
     </a>&nbsp;&nbsp;
   </p>
