@@ -96,7 +96,7 @@
       Flask
     </a>&nbsp;&nbsp;
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/djangoproject/djangoproject-ar21.svg" width="50" height="50"/>
+      <img src="https://in.images.search.yahoo.com/images/view;_ylt=Awrx.Pkzf.BlHXAsJ8K9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzUwMDE5MGNkMWUxOTAzOWM5OTcyM2EzODBhNTliZmRmBGdwb3MDMgRpdANiaW5n?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3DDjango%2Blogo%2Bimage%26type%3DE211IN714G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D2&w=5000&h=2142&imgurl=logos-download.com%2Fwp-content%2Fuploads%2F2019%2F06%2FDjango_Logo.png&rurl=https%3A%2F%2Flogos-download.com%2F39676-django-logo-download.html&size=176.8KB&p=Django+logo+image&oid=500190cd1e19039c99723a380a59bfdf&fr2=piv-web&fr=mcafee&tt=Django+%E2%80%93+Logos+Download&b=0&ni=21&no=2&ts=&tab=organic&sigr=0cBY5uoYbAtV&sigb=LBh4m4..qiA5&sigi=cEoiXT6VkCx8&sigt=UvUW7yZCD0Rj&.crumb=NxVH83R9N97&fr=mcafee&fr2=piv-web&type=E211IN714G0" width="50" height="50"/>
       Django
     </a>&nbsp;&nbsp;
     <!-- Add more WebFramework tools here as required -->
