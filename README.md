@@ -29,9 +29,12 @@
   
 
 <h3 align="left">Connect with me:</h3>
+
+<ul>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/thiresh-sidda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/thiresh-sidda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
+</ul>
 
 
 
@@ -201,10 +204,7 @@
 
 
 
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thireshsidda&show_icons=true&locale=en&layout=compact" alt="thireshsidda" /></p>
+<h2 align="left">GitHub Stats</h2>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thireshsidda&show_icons=true&locale=en&layout=compact" alt="thireshsidda" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thireshsidda&show_icons=true&locale=en" alt="thireshsidda" /></p>
