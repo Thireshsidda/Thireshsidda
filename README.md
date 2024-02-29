@@ -81,6 +81,7 @@
     </a>&nbsp;&nbsp;
     <!-- Add more MLOps tools here as required -->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/git-scm/git-scm-ar21.svg" alt="git" width="50" height="50"/>
       Git
     </a>&nbsp;&nbsp;
   </p>
@@ -95,16 +96,20 @@
       Flask
     </a>&nbsp;&nbsp;
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="50" height="50"/>
       Django
     </a>&nbsp;&nbsp;
     <!-- Add more WebFramework tools here as required -->
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi.svg" alt="fastapi" width="50" height="50"/>
       FastAPI
     </a>&nbsp;&nbsp;
     <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+      <img src="https://upload.vectorlogo.zone/logos/streamlitio/images/1548df31-a8e4-409b-a034-f2ddaa80670a.html" alt="streamlit" width="50" height="50"/>
       Streamlit
     </a>&nbsp;&nbsp;
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getpostman/getpostman-ar21.svg" alt="postman" width="50" height="50"/>
       Postman
     </a>&nbsp;&nbsp;
   </p>
