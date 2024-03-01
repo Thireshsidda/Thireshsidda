@@ -143,7 +143,7 @@
     </a>&nbsp;&nbsp;
     <a href="https://github.com/facebookresearch/detectron2" target="_blank" rel="noreferrer">
       <img src="https://production-media.paperswithcode.com/libraries/dete.png" width="50" height="50"/>
-      Detectron2 (Vision)
+      Detectron2 (Computer Vision)
     </a>&nbsp;&nbsp;
     <a href="https://huggingface.co/transformers/" target="_blank" rel="noreferrer">
       <img src="https://tse1.mm.bing.net/th?id=OIP._g7NEmUN8eCs6n1PsT5KcwHaD4&pid=Api&P=0&h=180" width="50" height="50"/>
