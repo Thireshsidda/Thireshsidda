@@ -26,10 +26,10 @@
 
 - ⚡ Fun fact **:- I am practically addicted to Gen AI.**
 
+
   
 
-<h3 align="left">Connect with me:</h3>
-
+<h2 align="left">Connect with me:</h2>
 <ul>
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/thiresh-sidda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
@@ -40,20 +40,6 @@
 
 
 <!-- Languages -->
-<h3 align="left">Languages</h3>
-<ul>
-  <p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin-right: 20px;"/>
-      Python
-    </a>
-    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer" style="margin-left: 20px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/768px-Apache_Spark_logo.svg.png?20210416091439" alt="pyspark" width="50" height="50"/>
-      PySpark
-    </a>
-  </p>
-</ul>
-
 <h2 align="left">Languages</h2>
 <ul>
   <p align="left">
