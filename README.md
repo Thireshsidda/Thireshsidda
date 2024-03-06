@@ -16,7 +16,7 @@
 
 - 🌱 I'm deeply engrossed in **mastering the development of Large Language Models (LLMs) and Generation AI applications using the PyTorch Deep Learning framework.**
 
-- 👯 I'm actively seeking ***collaboration opportunities to pioneer Gen AI applications for clients. My focus lies in utilizing open-source LLMs such as LLaMA and MistralAI. Additionally, I'm passionate about integrating free open-source services like FAISS and Chroma vector store databases for robust and scalable solutions.***
+- 👯 I'm actively seeking ***collaboration opportunities to pioneer Gen AI applications for clients. My focus lies in utilizing open-source LLMs such as LLaMA, MistralAI and Gemma. Additionally, I'm passionate about integrating free open-source services like FAISS and Chroma vector store databases for robust and scalable solutions.***
 
 - 📝 I regularly write and post articles on [LinkedIN](https://www.linkedin.com/in/thiresh-sidda)
 
