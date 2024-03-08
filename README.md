@@ -205,6 +205,5 @@
 
 
 <h2 align="left">GitHub Stats</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thireshsidda&show_icons=true&locale=en&layout=compact" alt="thireshsidda" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thireshsidda&show_icons=true&locale=en" alt="thireshsidda" /></p>
