@@ -104,10 +104,6 @@
       <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/>
       Flask
     </a>&nbsp;&nbsp;
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vhv.rs/dpng/d/208-2081416_django-development-png-transparent-django-logo-png-download.png" width="50" height="50"/>
-      Django
-    </a>&nbsp;&nbsp;
     <!-- Add more WebFramework tools here as required -->
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
       <img src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi.svg" alt="fastapi" width="50" height="50"/>
