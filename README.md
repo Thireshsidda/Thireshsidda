@@ -72,7 +72,7 @@
 </ul>
 
 <!-- MLOps Tools -->
-<h3>MLOps Tools</h3>
+<h3>MLops Tools</h3>
 <ul>
   <p align="left">
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -93,7 +93,7 @@
 
 
 <!-- WebFramework Tools -->
-<h3>WebFramework Tools</h3>
+<h3>Web Frameworks</h3>
 <ul>
   <p align="left">
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
@@ -133,10 +133,6 @@
       TensorFlow
     </a>&nbsp;&nbsp;
     <!-- Add more ML Frameworks here as required -->
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-      <img src="https://tse1.mm.bing.net/th?id=OIP.hL1XFFTWL4Esa7o7BL6YVwHaB1&pid=Api&P=0&h=180" width="50" height="50"/>
-      PyTorch
-    </a>&nbsp;&nbsp;
     <a href="https://github.com/facebookresearch/detectron2" target="_blank" rel="noreferrer">
       <img src="https://production-media.paperswithcode.com/libraries/dete.png" width="50" height="50"/>
       Detectron2 (Computer Vision)
