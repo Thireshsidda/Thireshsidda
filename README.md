@@ -124,6 +124,10 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50"/>
       scikit-learn
     </a>&nbsp;&nbsp;
+    <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-left: 20px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/768px-Apache_Spark_logo.svg.png?20210416091439" alt="python" width="50" height="50"/>
+      PySpark
+    </a>&nbsp;&nbsp;
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" height="50"/>
       TensorFlow
