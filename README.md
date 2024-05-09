@@ -149,7 +149,7 @@
 </ul>
 
 <!-- Other Frameworks -->
-<h3>Other Tools</h3>
+<h3>Data Analysis and Data Visualization Frameworks</h3>
 <ul>
   <p align="left">
     <!-- Add other tools such as Pandas, Numpy, etc. -->
