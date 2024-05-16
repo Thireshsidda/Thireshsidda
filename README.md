@@ -1,4 +1,3 @@
-![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 <h1 align="center">Hey there! 👋, I'm Thiresh Sidda</h1>
 <h3 align="center">A fervent Data Scientist specializing in GEN AI and LLMs development, hailing from India.</h3>
 
