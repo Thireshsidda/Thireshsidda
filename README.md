@@ -56,7 +56,7 @@
 <h2 align="left">Tools</h2>
 
 <!-- Cloud Platforms -->
-<h3>*Cloud Platforms</h3>
+<h3>-Cloud Platforms</h3>
 <ul>
   <p align="left">
     <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
@@ -71,7 +71,7 @@
 </ul>
 
 <!-- MLOps Tools -->
-<h3*MLops Tools</h3>
+<h3>*MLops Tools</h3>
 <ul>
   <p align="left">
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
