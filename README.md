@@ -56,7 +56,7 @@
 <h2 align="left">Tools</h2>
 
 <!-- Cloud Platforms -->
-<h3>-Cloud Platforms</h3>
+<h3>- Cloud Platforms</h3>
 <ul>
   <p align="left">
     <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
@@ -71,7 +71,7 @@
 </ul>
 
 <!-- MLOps Tools -->
-<h3>*MLops Tools</h3>
+<h3>- MLops Tools</h3>
 <ul>
   <p align="left">
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -92,7 +92,7 @@
 
 
 <!-- WebFramework Tools -->
-<h3>*Web Frameworks</h3>
+<h3>- Web Frameworks</h3>
 <ul>
   <p align="left">
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
@@ -116,7 +116,7 @@
 </ul>
 
 <!-- ML Frameworks -->
-<h3>*ML Frameworks</h3>
+<h3>- ML Frameworks</h3>
 <ul>
   <p align="left">
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
@@ -144,7 +144,7 @@
 </ul>
 
 <!-- Other Frameworks -->
-<h3>*Data Analysis and Data Visualization Frameworks</h3>
+<h3>- Data Analysis and Data Visualization Frameworks</h3>
 <ul>
   <p align="left">
     <!-- Add other tools such as Pandas, Numpy, etc. -->
@@ -165,7 +165,7 @@
 </ul>
 
 <!-- Databases -->
-<h3>*Databases</h3>
+<h3>- Databases</h3>
 <ul>
   <p align="left">
     <!-- Add database tools such as MySQL, MongoDB, etc. -->
