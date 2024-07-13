@@ -1,29 +1,6 @@
 <h1 align="center">Hey there! 👋, I'm Thiresh Sidda</h1>
-<h3 align="center">A fervent Data Scientist specializing in GEN AI and LLMs development, hailing from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thireshsidda&label=Profile%20views&color=0e75b6&style=flat" alt="thireshsidda" /> </p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Thireshsidda" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- Currently, I'm immersed in **crafting a cutting-edge chatbot application leveraging the power of Azure OpenAI and Cognitive Services.**
-
-- 🌱 I'm deeply engrossed in **mastering the development of Large Language Models (LLMs) and Generation AI applications using the PyTorch Deep Learning framework.**
-
-- 👯 I'm actively seeking ***collaboration opportunities to pioneer Gen AI applications for clients. My focus lies in utilizing open-source LLMs such as LLaMA, MistralAI and Gemma. Additionally, I'm passionate about integrating free open-source services like FAISS and Chroma vector store databases for robust and scalable solutions.***
-
-- 📝 I regularly write and post articles on [LinkedIN](https://www.linkedin.com/in/thiresh-sidda)
-
-- 💬 Ask me about **Vision and Gen AI.**
-
-- 📫 How to reach me **thireshsidda99@gmail.com**
-
-- ⚡ Fun fact **:- I am practically addicted to Gen AI.**
+![GitHubpic](https://github.com/user-attachments/assets/ab359ac4-329d-437e-926f-27628307a558)
 
 
   
