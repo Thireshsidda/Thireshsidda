@@ -3,8 +3,8 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ab359ac4-329d-437e-926f-27628307a558" alt="ThireshSidda">
 </p>
-
 ---
+
 <h3 align="center" style="color: blue;">
 Artificial Intelligence and Machine Learning Engineer</br> 
 (EDA, ML Predictive modelling, Generative Deep Learning, MLOperations, Multimodal AI (Autoregressive models. GANs & Stable diffusion)) </br> 
@@ -13,30 +13,34 @@ Artificial Intelligence and Machine Learning Engineer</br>
 
 ---
 
-## <span style="color: blue;">**About**</span>:
-- A Mechanical Engineering student and aspiring AI researcher with expertise in **ML predictive modeling, computer vision, NLP, and MLOps**. I am exploring **multimodal AI (including autoregressive models, GANs, stable diffusion, VAEs, and ViTs)**, with a primary focus on **generative deep learning**. Additionally, my research interests include **mathematics and robotics** for interdisciplinary work.
-
+<h2 style="color: blue;">About</h2>
+<p>
+- A Mechanical Engineering student and aspiring AI researcher with expertise in <strong>ML predictive modeling, computer vision, NLP, and MLOps</strong>. I am exploring <strong>multimodal AI (including autoregressive models, GANs, stable diffusion, VAEs, and ViTs)</strong>, with a primary focus on <strong>generative deep learning</strong>. Additionally, my research interests include <strong>mathematics and robotics</strong> for interdisciplinary work.
+</p>
+<p>
 - I am looking to pursue a career in robotics and AI to continue my research and am exploring potential opportunities.
-
+</p>
+<p>
 - I am passionate about learning new things, sharing my knowledge, continually improving myself, experimenting with acquired skills, and challenging my capabilities. I am also building an all-in-one free AI/ML resource collection on my GitHub.
-
+</p>
+<p>
 - I am actively seeking research opportunities in theoretical or applied multimodal AI within the generative AI domains.
-
+</p>
 
 ---
 
-## <span style="color: blue;">**Skills**</span>
-- **Programming**: Python (Advanced), C (For Contests).
-- **Cloud**: Azure, AWS
-- **ML Techniques** : EDA, Feature Engineering, Statistics, Machine Learning, Deep Learning (Vision & NLP), Gen AI, MLOps.
-- **DS & ML Tools (Python)** : NumPy, Pandas, Matplotlib, Seaborn, Scikitlearn, PySpark, TensorflowKeras, PyTorch, Detectron2, Langchain.
-- **Web Frameworks:** Flask, FastAPI, streamlit, Postman
-- **MLOps Tools**: git, Docker, Kubernetes, Terraform, GitHub Workflows.
-- **Database Management**: AWS S3, Azure Blob, MySQL, MongoDB, Apache Kafka.
-- **Deployment Platforms**: AWS ECR, AWS EC2, Azure Web App, Azure Container Registry
+<h2 style="color: blue;">Skills</h2>
+<p>
+- <strong>Programming</strong>: Python (Advanced), C (For Contests).<br>
+- <strong>Cloud</strong>: Azure, AWS<br>
+- <strong>ML Techniques</strong> : EDA, Feature Engineering, Statistics, Machine Learning, Deep Learning (Vision & NLP), Gen AI, MLOps.<br>
+- <strong>DS & ML Tools (Python)</strong> : NumPy, Pandas, Matplotlib, Seaborn, Scikitlearn, PySpark, TensorflowKeras, PyTorch, Detectron2, Langchain.<br>
+- <strong>Web Frameworks</strong>: Flask, FastAPI, streamlit, Postman<br>
+- <strong>MLOps Tools</strong>: git, Docker, Kubernetes, Terraform, GitHub Workflows.<br>
+- <strong>Database Management</strong>: AWS S3, Azure Blob, MySQL, MongoDB, Apache Kafka.<br>
+- <strong>Deployment Platforms</strong>: AWS ECR, AWS EC2, Azure Web App, Azure Container Registry<br>
 - Product Development, Project Management, Business Development and Strategic Planning and Analysis.
-
-
+</p>
 
 
 ---
