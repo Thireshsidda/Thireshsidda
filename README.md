@@ -21,7 +21,6 @@ Artificial Intelligence and Machine Learning Researcher</br>
 - I am passionate about learning new things, sharing my knowledge, continually improving myself, experimenting with acquired skills, and challenging my capabilities. I am also building an all-in-one free AI/ML resource collection on my GitHub.
 
 - I am actively seeking research opportunities in theoretical or applied multimodal AI within the generative AI domains.
----
 
 
 ---
@@ -36,8 +35,7 @@ Artificial Intelligence and Machine Learning Researcher</br>
 - **Database Management**: AWS S3, Azure Blob, MySQL, MongoDB, Apache Kafka.
 - **Deployment Platforms**: AWS ECR, AWS EC2, Azure Web App, Azure Container Registry
 - Product Development, Project Management, Business Development and Strategic Planning and Analysis.
-  
----
+
 
 
 ---
