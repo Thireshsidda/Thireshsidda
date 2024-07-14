@@ -25,6 +25,22 @@ Artificial Intelligence and Machine Learning Researcher</br>
 ---
 
 
+---
+
+## **Skills**
+- **Programming**: Python (Advanced), C (For Contests).
+- - **Cloud**: Azure, AWS
+- **ML Techniques** : EDA, Feature Engineering, Statistics, Machine Learning, Deep Learning (Vision & NLP), Gen AI, MLOps.
+- **DS & ML Tools (Python)** : NumPy, Pandas, Matplotlib, Seaborn, Scikitlearn, PySpark, TensorflowKeras, PyTorch, Detectron2, Langchain.
+- **Web Frameworks:** Flask, FastAPI, streamlit, Postman
+- **MLOps Tools**: git, Docker, Kubernetes, Terraform, GitHub Workflows.
+- **Database Management**: AWS S3, Azure Blob, MySQL, MongoDB, Apache Kafka.
+- **Deployment Platforms**: AWS ECR, AWS EC2, Azure Web App, Azure Container Registry
+- Product Development, Project Management, Business Development and Strategic Planning and Analysis.
+  
+---
+
+
 
 <h2 align="left">Connect with me:</h2>
 <ul>
