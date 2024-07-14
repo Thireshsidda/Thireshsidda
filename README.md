@@ -8,14 +8,6 @@ Artificial Intelligence and Machine Learning Researcher</br>
  (EDA, ML Predictive modelling, Generative Deep Learning, Multimodal AI(Autoregressive models. GANs & Stable diffusion), MLoperations) </br> 
  | Explorer | Looking for research opportunities
 </h3>
-  
-
-<h2 align="left">Connect with me:</h2>
-<ul>
-<p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/thiresh-sidda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-</p>
-</ul>
 
 
 ---
@@ -27,6 +19,15 @@ Artificial Intelligence and Machine Learning Researcher</br>
 - Actively looking for research opportunities in theoretical or applied multimodal AI in Gen AI domains.
 
 ---
+
+
+
+<h2 align="left">Connect with me:</h2>
+<ul>
+<p align="left">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/thiresh-sidda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+</p>
+</ul>
 
 
 <!-- Languages -->
