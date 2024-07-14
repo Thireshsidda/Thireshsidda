@@ -5,15 +5,15 @@
 </p>
 
 ---
-<h3 align="center">
+<h3 align="center" style="color: blue;">
 Artificial Intelligence and Machine Learning Engineer</br> 
- (EDA, ML Predictive modelling, Generative Deep Learning, MLOperations, Multimodal AI (Autoregressive models. GANs & Stable diffusion)) </br> 
- | Explorer | Looking for research opportunities
+(EDA, ML Predictive modelling, Generative Deep Learning, MLOperations, Multimodal AI (Autoregressive models. GANs & Stable diffusion)) </br> 
+| Explorer | Looking for research opportunities
 </h3>
 
 ---
 
-## **About**:
+## <span style="color: blue;">**About**</span>:
 - A Mechanical Engineering student and aspiring AI researcher with expertise in **ML predictive modeling, computer vision, NLP, and MLOps**. I am exploring **multimodal AI (including autoregressive models, GANs, stable diffusion, VAEs, and ViTs)**, with a primary focus on **generative deep learning**. Additionally, my research interests include **mathematics and robotics** for interdisciplinary work.
 
 - I am looking to pursue a career in robotics and AI to continue my research and am exploring potential opportunities.
@@ -25,7 +25,7 @@ Artificial Intelligence and Machine Learning Engineer</br>
 
 ---
 
-## **Skills**
+## <span style="color: blue;">**Skills**</span>
 - **Programming**: Python (Advanced), C (For Contests).
 - **Cloud**: Azure, AWS
 - **ML Techniques** : EDA, Feature Engineering, Statistics, Machine Learning, Deep Learning (Vision & NLP), Gen AI, MLOps.
@@ -35,6 +35,7 @@ Artificial Intelligence and Machine Learning Engineer</br>
 - **Database Management**: AWS S3, Azure Blob, MySQL, MongoDB, Apache Kafka.
 - **Deployment Platforms**: AWS ECR, AWS EC2, Azure Web App, Azure Container Registry
 - Product Development, Project Management, Business Development and Strategic Planning and Analysis.
+
 
 
 
