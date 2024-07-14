@@ -14,7 +14,7 @@ Artificial Intelligence and Machine Learning Researcher</br>
 
 ## [**About**](https://azminewasi.github.io/index.html) :
 - A  Mechanical engineering student and aspiring AI researcher expertise in **ML predective modelling, Vision, NLP and MLOps**. I am exploring **Multimodal AI (Autoregressive models, GANs, Stable diffusion, VAEs and ViTs)**,  primarily focusing on **Generative Deep Learning**. Additionally, my other research interests include **Mathematice and Robotics** for interdisciplinary works.
-- **I am looking forward to pursue a PhD in Fall 2025 to continue research** and looking for potential options.
+- **I am looking forward to pursue career in Robotics and AI to continue research** and looking for potential options.
 - Passionate about **learning new things, sharing my knowledge, improving myself regularly, experimenting with acquired skills and challenging my capabilities**. Building all-in-one free AI/ML resources collection in my GitHub.
 - Actively looking for research opportunities in theoretical or applied multimodal AI in Gen AI domains.
 
