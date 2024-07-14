@@ -5,16 +5,10 @@
 </p>
 
 
-<h3 align="center" style="color: blue;">
-Artificial Intelligence and Machine Learning Engineer</br> 
-(EDA, ML Predictive modelling, Generative Deep Learning, MLOperations, Multimodal AI (Autoregressive models. GANs & Stable diffusion)) </br> 
-Data Science fascinated and passionate | Explorer | Looking for Multimodal AI AI research opportunities
-</h3>
-
 <h3 align="center">
 Artificial Intelligence and Machine Learning Engineer</br> 
  (EDA, ML Predictive modelling, Generative Deep Learning, MLOperations, Multimodal AI (Autoregressive models. GANs & Stable diffusion)) </br> 
-Data Science fascinated and passionate | Explorer | Looking for Multimodal AI AI research opportunities
+Fascinated by Data Science and passionate about it | Explorer | Looking for GEN AI research opportunities
 </h3>
 
 ---
