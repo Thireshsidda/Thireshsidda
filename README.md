@@ -6,7 +6,7 @@
 
 ---
 <h3 align="center">
-Artificial Intelligence and Machine Learning Researcher</br> 
+Artificial Intelligence and Machine Learning Engineer</br> 
  (EDA, ML Predictive modelling, Generative Deep Learning, MLOperations, Multimodal AI (Autoregressive models. GANs & Stable diffusion)) </br> 
  | Explorer | Looking for research opportunities
 </h3>
