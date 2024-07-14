@@ -2,7 +2,12 @@
 
 ![GitHubpic](https://github.com/user-attachments/assets/ab359ac4-329d-437e-926f-27628307a558)
 
-
+---
+<h3 align="center">
+Artificial Intelligence and Machine Learning Researcher</br> 
+ (EDA, ML Predictive modelling, Generative Deep Learning, Multimodal AI(Autoregressive models. GANs & Stable diffusion), MLoperations) </br> 
+ | Explorer | Looking for research opportunities
+</h3>
   
 
 <h2 align="left">Connect with me:</h2>
