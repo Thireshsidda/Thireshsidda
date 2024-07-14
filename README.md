@@ -7,7 +7,7 @@
 ---
 <h3 align="center">
 Artificial Intelligence and Machine Learning Researcher</br> 
- (EDA, ML Predictive modelling, Generative Deep Learning, Multimodal AI(Autoregressive models. GANs & Stable diffusion), MLoperations) </br> 
+ (EDA, ML Predictive modelling, Generative Deep Learning, MLOperations, Multimodal AI (Autoregressive models. GANs & Stable diffusion)) </br> 
  | Explorer | Looking for research opportunities
 </h3>
 
