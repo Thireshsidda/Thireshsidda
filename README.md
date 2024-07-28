@@ -14,27 +14,27 @@ Fascinated by Data Science and passionate about it | Explorer | Looking for GEN 
 ---
 
 ## **About**:
-- A Mechanical Engineering student and aspiring AI researcher with expertise in **ML predictive modeling, computer vision, NLP, and MLOps**. I am exploring **multimodal AI (including autoregressive models, GANs, stable diffusion, VAEs, and ViTs)**, with a primary focus on **generative deep learning**. Additionally, my research interests include **Mathematics and Robotics** for interdisciplinary work.
+- **A Mechanical Engineering student and aspiring AI researcher with expertise in **ML predictive modeling, computer vision, NLP, and MLOps**. I am exploring **multimodal AI (including autoregressive models, GANs, stable diffusion, VAEs, and ViTs)**, with a primary focus on **generative deep learning**. Additionally, my research interests include **Mathematics and Robotics** for interdisciplinary work.**
 
-- I am looking to pursue a career in Robotics and AI to continue my research and am exploring potential opportunities.
+- **I am looking to pursue a career in Robotics and AI to continue my research and am exploring potential opportunities.**
 
-- I am passionate about learning new things, sharing my knowledge, continually improving myself, experimenting with acquired skills, and challenging my capabilities. I am also building an all-in-one free AI/ML resource collection on my GitHub.
+- **I am passionate about learning new things, sharing my knowledge, continually improving myself, experimenting with acquired skills, and challenging my capabilities. I am also building an all-in-one free AI/ML resource collection on my GitHub.**
 
-- I am actively seeking research opportunities in theoretical or applied multimodal AI within the generative AI domains.
+- **I am actively seeking research opportunities in theoretical or applied multimodal AI within the generative AI domains.**
 
 
 ---
 
 ## **Skills**
-- **Programming**: Python (Advanced), C (For Contests).
-- **Cloud**: Azure, AWS
-- **ML Techniques** : EDA, Feature Engineering, Statistics, Machine Learning, Deep Learning (Vision & NLP), Gen AI, MLOps.
-- **DS & ML Tools (Python)** : NumPy, Pandas, Matplotlib, Seaborn, Scikitlearn, PySpark, TensorflowKeras, PyTorch, Detectron2, Langchain.
-- **Web Frameworks:** Flask, FastAPI, streamlit, Postman
-- **MLOps Tools**: git, Docker, Kubernetes, Terraform, GitHub Workflows.
-- **Database Management**: AWS S3, Azure Blob, MySQL, MongoDB, Apache Kafka.
-- **Deployment Platforms**: AWS ECR, AWS EC2, Azure Web App, Azure Container Registry
-- Product Development, Project Management, Business Development and Strategic Planning and Analysis.
+- **Programming**: *Python (Advanced), C (For Contests).*
+- **Cloud**: *Azure, AWS*
+- **ML Techniques** : *EDA, Feature Engineering, Statistics, Machine Learning, Deep Learning (Vision & NLP), Gen AI, MLOps.*
+- **DS & ML Tools (Python)** : *NumPy, Pandas, Matplotlib, Seaborn, Scikitlearn, PySpark, TensorflowKeras, PyTorch, Detectron2, Langchain.*
+- **Web Frameworks**: *Flask, FastAPI, streamlit, Postman*
+- **MLOps Tools**: *git, Docker, Kubernetes, Terraform, GitHub Workflows.*
+- **Database Management**: *AWS S3, Azure Blob, MySQL, MongoDB, Apache Kafka.*
+- **Deployment Platforms**: *AWS ECR, AWS EC2, Azure Web App, Azure Container Registry*
+- **Product Development, Project Management, Business Development, and Strategic Planning and Analysis.**
 
 
 ---
