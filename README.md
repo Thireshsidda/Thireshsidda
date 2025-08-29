@@ -1,9 +1,5 @@
 <h1 align="center">Hey there! 👋, I'm Thiresh Sidda</h1>
 
-<p align="center">
-  <img src="" alt="ThireshSidda">
-</p>
-
 
 <h3 align="center">
 Artificial Intelligence and Machine Learning Engineer</br> 
