@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋, I'm Thiresh Sidda</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ab359ac4-329d-437e-926f-27628307a558" alt="ThireshSidda">
+  <img src="" alt="ThireshSidda">
 </p>
 
 
