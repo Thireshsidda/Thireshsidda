@@ -20,7 +20,7 @@
 ## 🧠About Me
 
 <div align="center">
-  <img width="290" src="https://assets-v2.lottiefiles.com/a/00ad673a-797e-11ee-a0f2-53598dbe07d8/Z51bKlVFxB.gif" alt="Data science workspace animation" />
+  <img width="400" src="https://assets-v2.lottiefiles.com/a/00ad673a-797e-11ee-a0f2-53598dbe07d8/Z51bKlVFxB.gif" alt="Data science workspace animation" />
 </div>
 
 I am a **Data Scientist and AI/ML Engineer with 3+ years of experience** building production-grade Machine Learning and Generative AI systems for real-world business applications.
