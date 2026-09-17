@@ -34,10 +34,6 @@ I enjoy taking ideas from early experiments to reliable cloud deployments.
 
 ## Professional Journey
 
-<div align="center">
-<img align="right" width="250" src="https://i.pinimg.com/originals/7d/f2/6f/7df26fa959d20fa16bf8223205cd949b.gif" alt="Professional experience animation" />
-</div>
-
 ### Data Scientist · Great Learning
 `October 2025 to Present`
 
@@ -108,9 +104,9 @@ My professional journey started at Celebal Technologies, where I worked on produ
 
 `Team Leadership` · `Critical Thinking` · `Problem-solving` · `Stakeholder Management` · `Effective Communication` · `Curriculum Design` · `Cross-functional Collaboration`
 
-## Education & Certifications
+<br clear="right" />
 
-<img align="right" width="270" src="https://cdn.dribbble.com/userupload/23815009/file/original-9a52a5210676bdff0e9ae01915462769.gif" alt="Education and certifications animation" />
+## Education & Certifications
 
 **Bachelor of Technology in Mechanical Engineering**  
 Aditya University · 2019 to 2023
@@ -141,9 +137,10 @@ Aditya University · 2019 to 2023
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thireshsidda&bg_color=ffffff&color=57606A&line=0969DA&point=BF8700&area=true&hide_border=true" />
 </div>
 
-## Let's Build Something Intelligent
+<br clear="right" />
 
-<img align="right" width="260" src="https://i.pinimg.com/originals/db/31/45/db31456e87cb51334779cba9386dcc83.gif" alt="Professional connection animation" />
+
+## Let's Build Something Intelligent
 
 I am open to thoughtful collaborations and opportunities across **Generative AI, Agentic AI, applied machine learning, multimodal systems, and AI research**. If you are building technology that must be intelligent in the lab and dependable in the real world, I would be glad to connect.
 
