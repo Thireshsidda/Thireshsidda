@@ -129,19 +129,14 @@ Aditya University · 2019 to 2023
 ## GitHub Analytics
 
 <div align="center">
-
-<img
-  width="48%"
-  src="https://github-readme-stats.vercel.app/api?username=Thireshsidda&show_icons=true&hide_border=true&theme=transparent&title_color=0969DA&icon_color=0969DA&text_color=57606A&hide=issues"
-  alt="GitHub statistics"
-/>
-
-<img
-  width="40%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thireshsidda&layout=compact&hide_border=true&theme=transparent&title_color=0969DA&text_color=57606A&langs_count=8"
-  alt="Most used programming languages"
-/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Thireshsidda&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=57606A" alt="Thiresh's GitHub statistics" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thireshsidda&layout=compact&theme=transparent&hide_border=true&title_color=0969DA&text_color=57606A" alt="Thiresh's most used languages" />
+  <br />
+  <img width="68%" src="https://streak-stats.demolab.com?user=Thireshsidda&theme=transparent&hide_border=true&ring=0969DA&fire=BF8700&currStreakLabel=0969DA" alt="Thiresh's contribution streak" />
+  <br />
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Thireshsidda&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Thiresh's GitHub trophies" />
+  <br />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thireshsidda&bg_color=ffffff&color=57606A&line=0969DA&point=BF8700&area=true&hide_border=true" alt="Thiresh's contribution graph" />
 </div>
 
 ## Let's Build Something Intelligent
