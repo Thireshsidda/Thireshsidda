@@ -146,7 +146,6 @@ I am open to thoughtful collaborations and opportunities across **Generative AI,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiresh_Sidda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiresh-sidda/)
 [![Gmail](https://img.shields.io/badge/Gmail-thireshsidda99-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thireshsidda99@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Thireshsidda-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thireshsidda)
 
 <br clear="right" />
 
