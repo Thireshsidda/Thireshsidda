@@ -18,23 +18,24 @@
 
 ## About Me
 
+<div align="center">
 <img align="right" width="270" src="https://assets-v2.lottiefiles.com/a/00ad673a-797e-11ee-a0f2-53598dbe07d8/Z51bKlVFxB.gif" alt="Data science workspace animation" />
+</div>
 
 I am a **Data Scientist and AI/ML Engineer with 3+ years of experience** building production-grade Machine Learning and Generative AI systems for real-world business applications.
 
-My work brings rigorous modelling and useful human outcomes together. I build predictive systems that reveal what may happen next, retrieval pipelines that make knowledge easier to use, and AI agents that turn reasoning into responsible action. I enjoy taking ideas from early experiments to reliable cloud deployments.
+My work brings rigorous modelling and useful human outcomes together. I build predictive systems that reveal what may happen next, retrieval pipelines that make knowledge easier to use, and AI agents that turn reasoning into responsible action. 
 
-- Building learner intelligence, explainable AI, and agentic support systems at **Great Learning**
-- Experienced in **predictive modelling, RAG, AI agents, LLM applications, cloud architecture, and MLOps**
-- Azure-certified across **AI Engineering, Data Science, and Cloud Fundamentals**
-- Comfortable translating technical systems into decisions for faculty, program owners, mentors, and business stakeholders
-- Exploring the next frontier of **multimodal AI, generative models, computer vision, NLP, and intelligent automation**
+I enjoy taking ideas from early experiments to reliable cloud deployments.
+
 
 <br clear="right" />
 
 ## Professional Journey
 
+<div align="center">
 <img align="right" width="250" src="https://i.pinimg.com/originals/7d/f2/6f/7df26fa959d20fa16bf8223205cd949b.gif" alt="Professional experience animation" />
+</div>
 
 ### Data Scientist · Great Learning
 `October 2025 to Present`
