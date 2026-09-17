@@ -5,8 +5,6 @@
 
 ### Data Scientist · AI/ML Engineer · Generative & Agentic AI Builder
 
-<img align="right" width="270" src="https://assets-v2.lottiefiles.com/a/00ad673a-797e-11ee-a0f2-53598dbe07d8/Z51bKlVFxB.gif" alt="Data science workspace animation" />
-
 **I turn complex data into dependable intelligence. I build predictive models, LLM applications, and AI agents that help people make better decisions and businesses move with confidence.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thiresh-sidda-portfolio.netlify.app/)
