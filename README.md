@@ -1,7 +1,7 @@
 <div align="center">
 
   
-# Hi, I'm Thiresh Sidda
+# 👋 Hi, I'm Thiresh Sidda
 
 ### Data Scientist · AI/ML Engineer · Generative & Agentic AI Builder
 
@@ -17,7 +17,7 @@
 
 </div>
 
-## About Me
+## 🧠About Me
 
 <div align="center">
 <img align="right" width="270" src="https://assets-v2.lottiefiles.com/a/00ad673a-797e-11ee-a0f2-53598dbe07d8/Z51bKlVFxB.gif" alt="Data science workspace animation" />
@@ -29,10 +29,9 @@ My work brings rigorous modelling and useful human outcomes together. I build pr
 
 I enjoy taking ideas from early experiments to reliable cloud deployments.
 
-
 <br clear="right" />
 
-## Professional Journey
+## 💼 Professional Journey
 
 ### Data Scientist · Great Learning
 `October 2025 to Present`
@@ -51,7 +50,7 @@ My professional journey started at Celebal Technologies, where I worked on produ
 
 <br clear="right" />
 
-## Technical Toolkit
+## 🛠️Technical Toolkit
 
 <div align="center">
   <img width="290" src="https://i.pinimg.com/originals/5f/d5/58/5fd558f8b7a4f9e2138709cbe63c7052.gif" alt="Technical skills animation" />
@@ -106,7 +105,7 @@ My professional journey started at Celebal Technologies, where I worked on produ
 
 <br clear="right" />
 
-## Education & Certifications
+## 🎓Education & Certifications
 
 **Bachelor of Technology in Mechanical Engineering**  
 Aditya University · 2019 to 2023
@@ -125,7 +124,7 @@ Aditya University · 2019 to 2023
 <br clear="right" />
 
 
-## GitHub Analytics
+## .📈 GitHub Analytics
 
 <div align="center">
 
@@ -150,7 +149,7 @@ Aditya University · 2019 to 2023
 <br clear="right" />
 
 
-## Let's Build Something Intelligent
+## 🤝 Let's Build Something Intelligent
 
 I am open to thoughtful collaborations and opportunities across **Generative AI, Agentic AI, applied machine learning, multimodal systems, and AI research**. If you are building technology that must be intelligent in the lab and dependable in the real world, I would be glad to connect.
 
