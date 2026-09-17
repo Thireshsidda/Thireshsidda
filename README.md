@@ -1,5 +1,9 @@
 <div align="center">
 
+<div align="center">
+<img align="right" width="270" src="https://assets-v2.lottiefiles.com/a/00ad673a-797e-11ee-a0f2-53598dbe07d8/Z51bKlVFxB.gif" alt="Data science workspace animation" />
+</div>
+  
 # Hi, I'm Thiresh Sidda
 
 ### Data Scientist · AI/ML Engineer · Generative & Agentic AI Builder
