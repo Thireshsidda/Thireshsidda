@@ -132,13 +132,13 @@ Aditya University · 2019 to 2023
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Thireshsidda&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=57606A" />
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thireshsidda&layout=compact&theme=transparent&hide_border=true&title_color=0969DA&text_color=57606A" alt="Thiresh's most used languages" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thireshsidda&layout=compact&theme=transparent&hide_border=true&title_color=0969DA&text_color=57606A" />
   <br />
-  <img width="68%" src="https://streak-stats.demolab.com?user=Thireshsidda&theme=transparent&hide_border=true&ring=0969DA&fire=BF8700&currStreakLabel=0969DA" alt="Thiresh's contribution streak" />
+  <img width="68%" src="https://streak-stats.demolab.com?user=Thireshsidda&theme=transparent&hide_border=true&ring=0969DA&fire=BF8700&currStreakLabel=0969DA" />
   <br />
   <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Thireshsidda&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8" />
   <br />
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thireshsidda&bg_color=ffffff&color=57606A&line=0969DA&point=BF8700&area=true&hide_border=true" alt="Thiresh's contribution graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thireshsidda&bg_color=ffffff&color=57606A&line=0969DA&point=BF8700&area=true&hide_border=true" />
 </div>
 
 ## Let's Build Something Intelligent
