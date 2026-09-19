@@ -151,6 +151,10 @@ Aditya University · 2019 to 2023
 
 ## 🤝 Let's Build Something Intelligent
 
+<div align="center">
+  <img width="400" src="https://i.pinimg.com/originals/db/31/45/db31456e87cb51334779cba9386dcc83.gif" alt="Let's connect animation" />
+</div>
+
 I am open to thoughtful collaborations and opportunities across **Generative AI, Agentic AI, applied machine learning, multimodal systems, and AI research**. If you are building technology that must be intelligent in the lab and dependable in the real world, I would be glad to connect.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiresh_Sidda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiresh-sidda/)
