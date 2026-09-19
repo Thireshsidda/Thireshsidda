@@ -1,6 +1,9 @@
 <div align="center">
 
-  
+<div align="center">
+  <img width="400" src="https://assets-v2.lottiefiles.com/a/00ad673a-797e-11ee-a0f2-53598dbe07d8/Z51bKlVFxB.gif" alt="Data science workspace animation" />
+</div>  
+
 # 👋 Hi, I'm Thiresh Sidda
 
 ### Data Scientist · AI/ML Engineer · Generative & Agentic AI Builder
@@ -19,10 +22,6 @@
 
 ## 🧠About Me
 
-<div align="center">
-  <img width="400" src="https://assets-v2.lottiefiles.com/a/00ad673a-797e-11ee-a0f2-53598dbe07d8/Z51bKlVFxB.gif" alt="Data science workspace animation" />
-</div>
-
 I am a **Data Scientist and AI/ML Engineer with 3+ years of experience** building production-grade Machine Learning and Generative AI systems for real-world business applications.
 
 My work brings rigorous modelling and useful human outcomes together. I build predictive systems that reveal what may happen next, retrieval pipelines that make knowledge easier to use, and AI agents that turn reasoning into responsible action. 
@@ -32,6 +31,10 @@ I enjoy taking ideas from early experiments to reliable cloud deployments.
 <br clear="right" />
 
 ## 💼 Professional Journey
+
+<div align="center">
+  <img width="290" src="https://i.pinimg.com/originals/f0/2a/f5/f02af5201c305c0960eea6d4f297fcbf.gif" alt="Technical skills animation" />
+</div>
 
 ### Data Scientist · Great Learning
 `October 2025 to Present`
@@ -106,10 +109,6 @@ My professional journey started at Celebal Technologies, where I worked on produ
 <br clear="right" />
 
 ## 🎓Education & Certifications
-
-<div align="center">
-  <img width="290" src="https://i.pinimg.com/originals/f0/2a/f5/f02af5201c305c0960eea6d4f297fcbf.gif" alt="Technical skills animation" />
-</div>
 
 **Bachelor of Technology in Mechanical Engineering**  
 Aditya University · 2019 to 2023
