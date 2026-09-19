@@ -107,6 +107,10 @@ My professional journey started at Celebal Technologies, where I worked on produ
 
 ## 🎓Education & Certifications
 
+<div align="center">
+  <img width="290" src="https://i.pinimg.com/originals/f0/2a/f5/f02af5201c305c0960eea6d4f297fcbf.gif" alt="Technical skills animation" />
+</div>
+
 **Bachelor of Technology in Mechanical Engineering**  
 Aditya University · 2019 to 2023
 
@@ -150,10 +154,6 @@ Aditya University · 2019 to 2023
 
 
 ## 🤝 Let's Build Something Intelligent
-
-<div align="center">
-  <img width="400" src="https://i.pinimg.com/originals/db/31/45/db31456e87cb51334779cba9386dcc83.gif" alt="Let's connect animation" />
-</div>
 
 I am open to thoughtful collaborations and opportunities across **Generative AI, Agentic AI, applied machine learning, multimodal systems, and AI research**. If you are building technology that must be intelligent in the lab and dependable in the real world, I would be glad to connect.
 
